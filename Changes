@@ -82,3 +82,7 @@
 	- biojs keyword and snippets added
 0.1.6
 	- Fixed biojs examples config
+0.1.7
+	- bugfix: removed features on resize (thanks Maciej Korzepa)
+0.1.8
+        - bugfix: avoid duplications after resetting features
